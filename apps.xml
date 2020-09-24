@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<default_app_n1 value="org.mozilla.fennec_fdroid-org.mozilla.fennec_fdroid.App"/>
+<default_app_n2 value="me.zhanghai.android.files-me.zhanghai.android.files.filelist.FileListActivity"/>
+<default_app_n3 value="im.vector.app-im.vector.app.features.Alias"/>
+<default_app_n4 value="com.termux-com.termux.app.TermuxActivity"/>
+<default_app_n5 value="org.videolan.vlc-org.videolan.vlc.StartActivity"/>
+<app_groups_sorting value="2"/>
+<com.android.messaging-com.android.messaging.ui.conversationlist.ConversationListActivity show="false"/>
+<org.lineageos.snap-com.android.camera.CameraLauncher show="false"/>
+<com.android.stk-com.android.stk.StkMain show="false"/>
+<com.termux.boot-com.termux.boot.BootActivity show="false"/>
+<com.simplemobiletools.gallery.pro-com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal show="true"/>
+<com.android.gallery3d-com.android.gallery3d.app.GalleryActivity show="false"/>
+</APPS>

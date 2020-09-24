@@ -1,0 +1,5 @@
+
+
+ll=ls -a -p -s -h -C
+gzc=tar czf % %
+gzd=tar xzf %

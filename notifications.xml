@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="true"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#FFFF9287"/>
+<notification_format value="╭  %t1  %app %n┝﫳  %[100][#FF61E178]title %n╰  %text"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+<filter id="0" value="Change keyboard"/>
+<filter id="1" value="Listening for events"/>
+<filter id="2" value="Fennec F-Droid is running"/>
+</NOTIFICATIONS>
